@@ -1,0 +1,97 @@
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('https://e0.pxfuel.com/wallpapers/37/940/desktop-wallpaper-eye-relaxing-relaxing-colors-thumbnail.jpg');
+        
+            background-size: cover;
+            font-family: Arial, sans-serif;
+        }
+    
+        .container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            /*background-color: rgba(255, 255, 255, 0.7); */
+            padding: 20px;
+            border-radius: 10px;
+        }
+    
+        h2 {
+            text-align: center;
+        }
+    
+        .input-group {
+            margin-bottom: 20px;
+        }
+    
+        .input-group label,
+        .input-group input {
+            display: block;
+            width: 140%;
+            
+        }
+    
+        .input-group input {
+            padding: 10px;
+            border-radius: 0px;
+            background-color: transparent;
+            
+            border: 1px solid #0c0c0c; 
+        }
+    
+        .btn {
+            padding: 10px 35px;
+            border: none;
+            background-color: #b85b82;
+            color: rgb(17, 17, 17);
+            border-radius: 5px;
+            cursor: pointer;
+            width: 150%;
+        }
+    
+        .btn:hover {
+            background-color: #fcfaf9;
+        }
+        
+
+
+    </style>
+    
+    
+    
+    <div class="container">
+        <div class="social_icons">
+            <a href="#"><i class="fab fa-facebook-f"></i> <span>Facebook</span></a>
+            <a href="#"><i class="fab fa-twitter"></i><span>Twitter</span></a>
+          </div>
+        <h2>👤</h2>
+        <form action="#">
+            <div class="circle">
+                <span style="font-size: 48px;"></span>
+              </div>
+            
+            <div class="input-group">
+                <label for="username"></label>
+                <div class="emoji">👤</div>
+                <input type="text" id="username" name="username" placeholder=" Username">
+            </div>
+            <div class="input-group">
+                <label for="password"></label>
+                <input type="password" id="password" name="password" placeholder="Password" required>
+            </div>
+            <button type="submit" class="btn">Login</button>
+        </form>
+    </div>
+</body>
+
+</html> -->
